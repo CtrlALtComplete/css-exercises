@@ -1,0 +1,11 @@
+/* This CSS file includes instructions for the closest located HTML file,
+part of task 01 in CSS introductory lesson of The Odin Project */
+/* styles.css */
+
+div {
+    background-color: red; 
+    color: white;
+    font-size: 32px; 
+    text-align: center; 
+    font-weight: 700;
+    }
